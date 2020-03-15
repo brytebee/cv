@@ -1,0 +1,154 @@
+ a {
+   color: #11999E;
+   margin: 20px 10px;
+   text-decoration: none;
+ }
+
+ a:hover {
+   color: #EAF6f6;
+ }
+
+ body {
+   color: #40514E;
+   margin: 0;
+   padding: 0;
+   text-align: center;
+   font-family: 'Aleo';
+ }
+
+ h1 {
+   margin: 0 auto;
+   padding: 0;
+   font-family: 'Amita', serif;
+   font-size: 4.335rem;
+   margin-top: 10px;
+   color: #66BFBF;
+ }
+
+ h2 {
+   font-family: 'Amiri';
+   font-size: 2.5rem;
+   color: #66BFBF;
+ }
+
+ h3 {
+   font-family: 'Amiri';
+   font-size: 1.5rem;
+   color: #11999E;
+ }
+
+ hr {
+   width: 10%;
+   border: dotted #EAF6f6 15px;
+   border-bottom: none;
+ }
+
+ p {
+   line-height: 2;
+   font-size: 1rem;
+ }
+
+ .bottom-container {
+   background-color: #66BFBF;
+   position: relative;
+   padding: 50px 0 10px;
+ }
+
+ .bottom-cloud {
+   position: absolute;
+   left: 380px;
+   top: 300px;
+   height: 50px;
+   width: 120px;
+ }
+
+ .btn {
+   box-shadow: 4px 5px 3px 3px #f0f7fa;
+   background: linear-gradient(to bottom, #127596 5%, #addef0 100%);
+   background-color: #127596;
+   border-radius: 14px;
+   border: 3px solid #3f96cc;
+   display: inline-block;
+   cursor: pointer;
+   color: #ffffff;
+   font-family: Arial;
+   font-size: 24px;
+   font-weight: bold;
+   padding: 11px 14px;
+   text-decoration: none;
+   text-shadow: 0 4px 2px #5669ad;
+ }
+
+ .btn:hover {
+   background: linear-gradient(to bottom, #addef0 5%, #127596 100%);
+   background-color: #addef0;
+ }
+
+ .btn:active {
+   position: relative;
+   top: 1px;
+ }
+
+ .copyright{
+   font-size: 0.85rem;
+   padding: 10px 0;
+   color: #EAF6f6;
+ }
+
+ .middle-container {
+   background-color: #ffff;
+   padding-bottom: 80px;
+   padding-top: 50px;
+ }
+
+ .mountain {
+   height: 200px;
+ }
+
+ .profile-picture {
+   height: 150px;
+   border-radius: 100%;
+   border-color: #11999E;
+ }
+
+ .programmer {
+   margin-top: 0;
+   font-weight: normal;
+ }
+
+ .skill-images1 {
+   height: 150px;
+   border-radius: 100%;
+   width: 150px;
+   float: left;
+   margin-right: 180px;
+ }
+
+ .skill-images2 {
+   height: 150px;
+   border-radius: 100%;
+   width: 150px;
+   float: right;
+   margin-left: 50px;
+ }
+
+ .skill-row {
+   width: 50%;
+   margin: 120px auto;
+   text-align: left;
+ }
+
+ .top-cloud {
+   position: relative;
+   left: 250px;
+   height: 50px;
+   width: 120px;
+ }
+
+ .top-container {
+   background-color: #effffb;
+   margin: 0;
+   padding: 0;
+   position: relative;
+   padding-top: 50px;
+ }
