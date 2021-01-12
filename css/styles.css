@@ -111,6 +111,10 @@
    border-color: #11999E;
  }
 
+.profile-picture:hover {
+   transform: scale(1.5) rotate(720deg);
+ }
+
  .programmer {
    margin-top: 0;
    font-weight: normal;
