@@ -107,8 +107,12 @@
 
  .profile-picture {
    height: 150px;
-   border-radius: 100%;
+   border-radius: 80%;
    border-color: #11999E;
+ }
+
+.profile-picture.hover {
+   transform: scale(1.5) rotate(720deg);
  }
 
  .programmer {
